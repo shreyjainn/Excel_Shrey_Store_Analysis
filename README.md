@@ -1,6 +1,7 @@
 # Customer Analytics for BlueSquare
 
-## Led a data analysis project for BlueSquare Store (FY-2023), aiming to improve their sales in FY-2024. Developed
+## Led a data analysis project for BlueSquare Store (FY-2023), aiming to improve their sales in FY-2024. 
+Developed
 skills in data cleaning, processing, analysis, and visualization while working with large datasets spanning 1000's of
 transactions.
 Identified key demographics and trends: Women were 65% more likely to make purchases compared to men; top 3
